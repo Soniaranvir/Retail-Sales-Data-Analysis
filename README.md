@@ -1,3 +1,6 @@
+
+![Untitled design](https://github.com/user-attachments/assets/f23cdc20-5f21-4eac-a0f7-c7650f00098d)
+
 # 🛒 Retail Sales Data Analysis
 
 ## ✨ Overview  
